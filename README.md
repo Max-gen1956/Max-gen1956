@@ -1,5 +1,7 @@
 ## Hello, I'm Max Dmitriev - Frontend Developer
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Max-gen1956&show_icons=true&theme=radical)
+
 Languages and Frameworks
 ---
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -7,6 +9,7 @@ Languages and Frameworks
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+<br><br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max-gen1956&layout=compact&theme=radical)
 
 Design and Tools
 ---
@@ -17,4 +20,5 @@ Contacts
 ---
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ddddmaxd)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maks28082001@gmail.com)
+![Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
